@@ -9,7 +9,7 @@
 | 1    | [.github](https://github.com/III-Lab/.github)                | 组织配置             |
 | 2    | [iii-lab.github.io](https://github.com/III-Lab/III-Lab.github.io) | 组织站点             |
 |      |                                                              |                      |
-| 3    | [robot-plus](https://github.com/III-Lab/robot-plus)          | 架空巡检机器人上位机 |
+| 3    | [GCRobot-Controller](https://github.com/III-Lab/GCRobot-Controller) | 架空巡检机器人上位机 |
 
 
 
