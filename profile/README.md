@@ -20,6 +20,5 @@
 
 | 序号 | 仓库                                                       | 说明                                                         |
 | ---- | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| 1    | [pfvpn-sign](https://github.com/yunke120/pfvpn-sign.git)   | 针对[pfvpn](https://purefast.net/auth/register?code=OeJl)的每日签到脚本 |
-| 2    | [obs-studio](https://github.com/obsproject/obs-studio.git) | 免费的开源软件，可用于拉流与屏幕录制                         |
+| 1    | [obs-studio](https://github.com/obsproject/obs-studio.git) | 免费的开源软件，可用于拉流与屏幕录制                         |
 
