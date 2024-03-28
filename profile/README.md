@@ -47,6 +47,6 @@
 |   2   |  [III-Robot-STM32-CMAKE](https://github.com/yunke120/III-Robot-STM32-CMAKE.git)    | 变电站巡检机器人本体     | STM32驱动端
 |   3   |  [III-Robot-ROS2](https://github.com/yunke120/III-Robot-ROS2.git)    | 变电站巡检机器人本体     | RaspbreeyPi规划端
 |   4   |  [III-Robot-Master](https://github.com/yunke120/III-Robot-Master.git)    | 变电站巡检机器人控制软件     | 后台监控软件
-|   3   |  [III-Robot-Master](https://github.com/yunke1206/III-Robot-Meter.git)    | 变电站巡检机器人仪表识别算法     | 数字仪表识别
+|   3   |  [III-Robot-Meter](https://github.com/yunke1206/III-Robot-Meter.git)    | 变电站巡检机器人仪表识别算法     | 数字仪表识别
 
 
