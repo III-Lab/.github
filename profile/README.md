@@ -1,6 +1,6 @@
 # III-LAB
 
-<p align="center" style="font-size:25px;>Image Information Intelligence Laboratory</p>
+<p align="center" style="font-size:25px;">Image Information Intelligence Laboratory</p>
 
 
 ## 目标检测
