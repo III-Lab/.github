@@ -1,6 +1,6 @@
 # III-LAB
 
-<p align="center">Image Information Intelligence Laboratory</p>
+<p align="center" style="font-size:25px;>Image Information Intelligence Laboratory</p>
 
 ## 目标检测
 
@@ -46,7 +46,7 @@
 |   1   |  [GCRobot-Controller](https://github.com/III-Lab/GCRobot-Controller.git)    | 架空巡检线路机器人控制地面端软件     | 港创机器人二代
 |   2   |  [III-Robot-STM32-CMAKE](https://github.com/yunke120/III-Robot-STM32-CMAKE.git)    | 变电站巡检机器人本体     | STM32驱动端
 |   3   |  [III-Robot-ROS2](https://github.com/yunke120/III-Robot-ROS2.git)    | 变电站巡检机器人本体     | RaspbreeyPi规划端
-|   4   |  [III-Robot-Master](https://github.com/yunke120/III-Robot-Master.git)    | 变电站巡检机器人控制软件     | 后台监控软件
+|   4   |  [III-Robot-Master](https://github.com/yunke1206/III-Robot-Master.git)    | 变电站巡检机器人控制软件     | 后台监控软件
 |   5   |  [III-Robot-Meter](https://github.com/yunke1206/III-Robot-Meter.git)    | 变电站巡检机器人仪表识别算法     | 数字仪表识别
 
 
