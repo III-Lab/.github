@@ -38,7 +38,8 @@
 
 |  序号    |   仓库   |   说明   |备注 |
 | ---- | ---- | ---- | ---- |
-|   1   |  [LightBlend](https://github.com/III-Lab/LightBlend.git)    | 光斑生成注入工具软件     | 
+|   1   |  [LightBlend](https://github.com/III-Lab/LightBlend.git)    | 光斑生成注入工具软件     | 版本V1
+|   2   |  [LaserSpotInjection](https://github.com/III-Lab/LaserSpotInjection.git)    | 光斑生成注入工具软件     | 版本V2
 
 ## 机器人
 
